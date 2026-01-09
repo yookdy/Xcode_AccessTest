@@ -7,12 +7,12 @@
 
 import SwiftUI
 
-struct brench_test: View {
+struct branch_test: View {
     var body: some View {
         Text("Hello, World!")
     }
 }
 
 #Preview{
-    brench_test()
+    branch_test()
 }

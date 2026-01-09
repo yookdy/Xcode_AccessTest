@@ -45,6 +45,11 @@
 			path = github_testUITests;
 			sourceTree = "<group>";
 		};
+		41853A912F114BD500D6CA1C /* branch_test */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = branch_test;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +80,7 @@
 		4185389F2F0BA64000D6CA1C = {
 			isa = PBXGroup;
 			children = (
+				41853A912F114BD500D6CA1C /* branch_test */,
 				418538AA2F0BA64000D6CA1C /* github_test */,
 				418538B82F0BA64100D6CA1C /* github_testTests */,
 				418538C22F0BA64100D6CA1C /* github_testUITests */,
@@ -109,6 +115,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				418538AA2F0BA64000D6CA1C /* github_test */,
+				41853A912F114BD500D6CA1C /* branch_test */,
 			);
 			name = github_test;
 			packageProductDependencies = (
